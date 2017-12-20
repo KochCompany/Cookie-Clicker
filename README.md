@@ -1,2 +1,2 @@
 # Cookie-Clicker
-Pyhon &lt;3
+Python &lt;3
